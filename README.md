@@ -1,0 +1,1 @@
+# pytest-how-to-assertions-about-expected-exceptions
